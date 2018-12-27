@@ -6,7 +6,7 @@
 
 ## Status
 
-Accepted
+Accepted (Superseded by [ADR-0005](../0005-use-gcs-as-storage-backend/0005-use-gcs-as-storage-backend.md))
 
 ## Context
 
